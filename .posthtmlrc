@@ -7,12 +7,160 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Kitty Henderson has made her mark on Columbia women’s basketball. As the winningest player in the program’s history, her name is littered across the Lions’ record books. The senior guard is the program’s all-time assist leader and earned its second-ever triple-double."
+          },
+          {
+            "type": "text",
+            "value": "But those benchmarks and accolades aren’t the only legacy she leaves behind. As a two-year captain who led her team to March Madness twice, Henderson’s leadership defines her impact on the program."
+          },
+          {
+            "type": "text",
+            "value": "Henderson’s path to the top of the Ivy League started with a journey of just under 10,000 miles from the shores of North Curl Curl, Australia, to Morningside Heights. After playing netball—a sport similar to basketball, but with a smaller ball and no dribbling—in her youth, her coach suggested basketball, a sport that was more suited to her aggressive style. When she progressed to high school, she began to long for the opportunity to play at a higher level."
+          },
+          {
+            "type": "text",
+            "value": "“I felt like I wasn’t being challenged,” she said. “Because high school was high school, and then basketball was kind of the same thing every year, the same tournaments, the same teams and things. And I wanted to just do something different.”"
+          },
+          {
+            "type": "text",
+            "value": "Henderson’s high school coach, attuned to the U.S. system of college basketball, recommended that she look abroad to find the level of competition she wanted. Columbia head coach Megan Griffith, CC ’07, was one of the first to visit her, and she made an instant impression."
+          },
+          {
+            "type": "text",
+            "value": "“I just had such a good relationship with them from when I was in like, eighth grade or something,” Henderson said."
+          },
+          {
+            "type": "text",
+            "value": "“So I had had a really good relationship with Columbia already. And when I decided that I wanted to go to the States, it was really easy to choose Columbia, just because of the relationships that I had,” she said."
+          },
+          {
+            "type": "text",
+            "value": "Despite attending college thousands of miles away from Australia, Columbia felt like a home away from home. While homesick at the beginning, Henderson quickly found community in  New York City and with the women’s basketball team."
+          },
+          {
+            "type": "text",
+            "value": "“I just feel like there’s just such a good support network around here, especially my teammates and my staff,” she said. “They just make it feel like home, so I never have to think about my actual home.”"
+          },
+          {
+            "type": "text",
+            "value": "Henderson’s role on the team evolved significantly over the course of her time in Morningside Heights. As an underclassman, the majority of her teammates were seniors, giving her the opportunity to learn what it takes to be a leader."
+          },
+          {
+            "type": "text",
+            "value": "“I just think that the teammates that fell before me, they really showed me how to do everything,” she said. “I had such good examples in front of me.”"
+          },
+          {
+            "type": "text",
+            "value": "The lessons she learned from them were crucial when she entered the 2024-25 season as one of only four upperclassmen on the 12-person team. Henderson led the team as a captain for the second season in a row, this time alongside co-captains senior guard Cecelia Collins and junior forward Perri Page. She had to take her leadership to the next level in order to help the underclassmen develop."
+          },
+          {
+            "type": "text",
+            "value": "“This year, I knew I needed to step up my leadership and take a much bigger role, especially on the court. So I think this year I learned a lot about my leadership and what’s effective and what’s not,” Henderson said. “And I think this year I had to be a lot harder on my teammates than I ever would have thought.”"
+          },
+          {
+            "type": "text",
+            "value": "But those moments of leadership started well before the 2024-25 season."
+          },
+          {
+            "type": "text",
+            "value": "After guiding the team to the NCAA tournament in the 2023-24 campaign, where the Lions lost 72-68 to Vanderbilt University in their first-ever March Madness appearance, Henderson set the tone for their next season with her statement at the postgame press conference following the devastating loss: “We’ll be back.”"
+          },
+          {
+            "type": "text",
+            "value": "And they came roaring back. The Light Blue went 13-1 in the conference season to win the outright Ivy League regular season title for the first time in program history. The Lions were the No. 1 seed entering the Ivy League tournament, and despite losing to Harvard in the final, their success all but guaranteed another March Madness appearance. On <a href=\"https://www.columbiaspectator.com/sports/2025/03/16/lets-dance-womens-basketball-earns-second-consecutive-bid-to-march-madness/\">Selection Sunday</a>, they secured one of three Ivy League bids to the dance."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "kitty_avg_proto.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "“It means so much to us. It’s always a huge goal. Even just going there is like a really big achievement for mid-majors,” Henderson said of the achievement. “And I feel like, I don’t know, we’re just gonna keep leveling up.”"
+          },
+          {
+            "type": "text",
+            "value": "Then, the team went further than it ever had before. For the first time in program history, the Lions won a March Madness game."
+          },
+          {
+            "type": "text",
+            "value": "The program’s success became synonymous with Henderson, as she led the Lions to their first tournament <a href=\"https://www.columbiaspectator.com/sports/2025/03/20/womens-basketball-earns-first-ncaa-tournament-victory-in-program-history-takes-down-washington/\">win</a> against the University of Washington with an 11-point lead. Despite <a href=\"https://www.columbiaspectator.com/sports/2025/03/22/womens-basketball-falls-to-west-virginia-in-first-round-of-march-madness-78-59/\">losing</a> to West Virginia University in the round of 64, the Lions cemented their place among the best of the best in college basketball."
+          },
+          {
+            "type": "text",
+            "value": "“I said this to my teammates after me and Cece finished our last game, but the expectation now is to go in and win a few games, you know, and get further and further each year,” Henderson said. “I think it’s really exciting. It’s only beginning.”"
+          },
+          {
+            "type": "text",
+            "value": "Amid women’s basketball’s multiseason rise to stardom, Henderson picked up 100 wins, becoming the winningest player in program history. Henderson was also the second player in program history to record a triple-double and is the program leader in assists. Accolades began to pile up for the senior as she was named Ivy League defensive player of the year and unanimously selected to the first team all-Ivy League."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "kitty_wins_proto.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Her impact is felt by her teammates, too."
+          },
+          {
+            "type": "text",
+            "value": "“She’s kind of just someone that puts people before herself, which I really admire in every aspect,” Collins told Spectator."
+          },
+          {
+            "type": "text",
+            "value": "Henderson also recognises the growth in popularity that the team has experienced throughout her time on campus, crediting Griffith’s vision for the expansion. Even in comparison to her first year, she noticed how much the fanbase has changed and grown."
+          },
+          {
+            "type": "text",
+            "value": "“This campus has been through a lot, and I think that we’ve just been a very consistent kind of source of spirit for the school,” Henderson said.“I think you forget where you came from sometimes. And I think, when you see it again, you’re like, ‘Wow, we really did do a lot to change this.’”"
+          },
+          {
+            "type": "text",
+            "value": "After four years at Columbia, Henderson will walk across the graduation stage in May as one of the program’s all-time greats."
+          },
+          {
+            "type": "text",
+            "value": "Her coach agrees. “She’s just a winner in so many ways. She’s also just been so eager to learn how to be better in her life, and that’s been such an honor to coach her,” Griffith said following Henderson’s last game with the Light Blue."
+          },
+          {
+            "type": "text",
+            "value": "Reflecting back on all her memories on the Levien Gymnasium court, Henderson wants to be remembered for the way she played—and why she did it."
+          },
+          {
+            "type": "text",
+            "value": "“I think that’s how I would want to be remembered, as just someone who played so hard for their teammates because she loved them so much.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Sports Editor Arielle Rieder can be contacted at </i><a href=\"mailto:arielle.rieder@columbiaspectator.com\"><i>arielle.rieder@columbiaspectator.com</i></a><i>. Follow her on X @</i><a href=\"https://x.com/ArielleRieder\"><i>ArielleRieder</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Reporter Emilia Lebeau can be contacted at </i><a href=\"mailto:emilia.lebeau@columbiaspectator.com\"><i>emilia.lebeau@columbiaspectator.com.</i></a><i> Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter</i></b></a><b><i> and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Kitty Henderson, CC ’25, on leadership and breaking records",
+        "dek": "The winningest player in program history reflected on her journey from Australia to the biggest stage in college basketball.",
+        "date": "May 4, 2025",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/arielle-rieder/\">Arielle Rieder</a>",
+        "byline2": "Graphics by <a href=\"https://www.columbiaspectator.com/contributors/emilia-lebeau/\">Emilia Lebeau</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/GRYU72ZGPRAUHEJJBK63SU5BDY.jpeg",
+        "cover_caption": "Anaïs Fotsing / Deputy Illustrator",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1r0oc7HfHHxCCjnBpY1LAv9z3NrLHqZl483MKvkUkeIM/edit?tab=t.0"
       }
     }
   }
